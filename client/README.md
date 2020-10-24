@@ -1,4 +1,5 @@
-# client
+# Connection between vue.js and mongo.db has been established.
+
 
 ## Project setup
 ```
